@@ -1,0 +1,16 @@
+BunsenLabs Numix Icon Theme
+===========================
+
+Some substituted and additional icons for the Numix-Circle icon theme.
+
+Some alternative themes with recoloured folder icons are provided
+which inherit Numix-Circle or Numix-Circle-Light themes, and in turn Numix.
+
+This package depends on numix-icon-theme-circle which depends on numix-icon-theme.
+
+Other additional icons:
+BunsenLabs logo (not yet added)
+
+### License
+
+GPL3+

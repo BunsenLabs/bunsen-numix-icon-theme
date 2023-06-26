@@ -1,0 +1,20 @@
+Source: bunsen-numix-icon-theme
+Section: x11
+Priority: optional
+Maintainer: John Crawley <john@bunsenlabs.org>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.1.0
+Rules-Requires-Root: no
+Homepage: https://github.com/BunsenLabs/bunsen-numix-icon-theme
+Vcs-Git: https://github.com/BunsenLabs/bunsen-numix-icon-theme.git
+Vcs-Browser: https://github.com/BunsenLabs/bunsen-numix-icon-theme
+
+Package: bunsen-numix-icon-theme
+Architecture: all
+Depends: ${misc:Depends}, numix-icon-theme-circle, librsvg2-common
+Description: Some substitute icons for the Numix icon theme.
+ The default Numix folder icons have been replaced by
+ light blue (aqua) or dark red icons, and some others added.
+ The packaged themes inherit Numix-Circle or Numix-Circle-Light
+ and the package depends on numix-icon-theme-circle
+ (numix-icon-theme is an indirect dependency).
