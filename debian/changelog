@@ -1,3 +1,9 @@
+bunsen-numix-icon-theme (12.0.1-1) boron; urgency=medium
+
+  * Bugfix for Numix-Bunsen-Aqua-Light theme.
+
+ -- John Crawley <john@bunsenlabs.org>  Mon, 26 Jun 2023 16:30:54 +0900
+
 bunsen-numix-icon-theme (12.0-1) boron; urgency=medium
 
   * Initial release.
