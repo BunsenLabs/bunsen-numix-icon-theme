@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Numix Bunsen Circle aqua Light
+Name=Numix-Bunsen-Circle-aqua-Light
 Comment=Numix icon theme with a circular apps icons design for use with light themes, folders recoloured for BunsenLabs
 
 Inherits=Numix-Bunsen-aqua-common,Numix-Circle-Light

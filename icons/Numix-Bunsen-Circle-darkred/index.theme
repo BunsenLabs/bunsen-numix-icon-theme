@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Numix Bunsen Circle darkred
+Name=Numix-Bunsen-Circle-darkred
 Comment=Numix icon theme with a circular apps icons design, with recoloured folder icons for BunsenLabs
 
 Inherits=Numix-Bunsen-darkred-common,Numix-Circle
