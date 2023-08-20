@@ -1,3 +1,9 @@
+bunsen-numix-icon-theme (12.1-1) boron; urgency=medium
+
+  * Replace spaces in icon theme names with hyphens in index.theme files.
+
+ -- John Crawley <john@bunsenlabs.org>  Sun, 20 Aug 2023 10:41:17 +0900
+
 bunsen-numix-icon-theme (12.0.1-1) boron; urgency=medium
 
   * Bugfix for Numix-Bunsen-Aqua-Light theme.
