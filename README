@@ -9,7 +9,32 @@ which inherit Numix-Circle or Numix-Circle-Light themes, and in turn Numix.
 This package depends on numix-icon-theme-circle which depends on numix-icon-theme.
 
 Other additional icons:
-BunsenLabs logo (not yet added)
+BunsenLabs logo
+
+---
+
+NOTE about inheritance.
+There are four "common" icon themes which are hidden but which 
+the other themes inherit, in order to economise on disk space:
+
+Numix-Bunsen-aqua-common
+Numix-Bunsen-darkred-common
+These two hold the recoloured Numix folder icons
+and are shared by both dark and light themes.
+
+
+Numix-Bunsen-Dark-common
+Numix-Bunsen-Light-common
+These two hold icons for either dark or light themes which are the same
+for both aqua or darkred themes.
+
+The dark and light sets take precedence over the coloured sets.
+
+For example, Numix-Bunsen-Circle-aqua inherits:
+Numix-Bunsen-Dark-common (contains eg BunsenLabs logos for dark themes)
+Numix-Bunsen-aqua-common (contains recoloured aqua folders)
+Numix-Circle (contains other Numix icons for dark themes)
+ - inherits Numix
 
 ### License
 

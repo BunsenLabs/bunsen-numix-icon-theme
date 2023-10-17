@@ -2,7 +2,7 @@
 Name=Numix-Bunsen-Circle-darkred-Light
 Comment=Numix icon theme with a circular apps icons design for use with light themes, folders recoloured for BunsenLabs
 
-Inherits=Numix-Bunsen-darkred-common,Numix-Circle-Light
+Inherits=Numix-Bunsen-Light-common,Numix-Bunsen-darkred-common,Numix-Circle-Light
 
 Example=directory-x-normal
 
