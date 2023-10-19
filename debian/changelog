@@ -1,3 +1,9 @@
+bunsen-numix-icon-theme (12.2-1) boron; urgency=medium
+
+  * Add BunsenLabs logo icons.
+
+ -- John Crawley <john@bunsenlabs.org>  Wed, 18 Oct 2023 15:43:50 +0900
+
 bunsen-numix-icon-theme (12.1-1) boron; urgency=medium
 
   * Replace spaces in icon theme names with hyphens in index.theme files.
