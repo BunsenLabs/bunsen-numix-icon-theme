@@ -1,3 +1,9 @@
+bunsen-numix-icon-theme (12.2.1-1) boron; urgency=medium
+
+  * Add symlinks to make ac-adapter icons symbolic.
+
+ -- John Crawley <john@bunsenlabs.org>  Thu, 07 Dec 2023 16:24:41 +0900
+
 bunsen-numix-icon-theme (12.2-1) boron; urgency=medium
 
   * Add BunsenLabs logo icons.
