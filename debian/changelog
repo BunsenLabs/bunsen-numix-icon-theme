@@ -1,3 +1,9 @@
+bunsen-numix-icon-theme (12.2.2-1) boron; urgency=medium
+
+  * Update index.theme for Dark and Light common themes. 
+
+ -- John Crawley <john@bunsenlabs.org>  Thu, 07 Dec 2023 17:20:42 +0900
+
 bunsen-numix-icon-theme (12.2.1-1) boron; urgency=medium
 
   * Add symlinks to make ac-adapter icons symbolic.
