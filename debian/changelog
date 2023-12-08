@@ -7,7 +7,7 @@ bunsen-numix-icon-theme (12.2.3-1) boron; urgency=medium
 
 bunsen-numix-icon-theme (12.2.2-1) boron; urgency=medium
 
-  * Update index.theme for Dark and Light common themes. 
+  * Update index.theme for Dark and Light common themes.
 
  -- John Crawley <john@bunsenlabs.org>  Thu, 07 Dec 2023 17:20:42 +0900
 
