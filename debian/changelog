@@ -1,3 +1,10 @@
+bunsen-numix-icon-theme (12.2.3-1) boron; urgency=medium
+
+  * Add software-update-available symbolic-style dark and light icons.
+     This forces yad to use the correct darkness in the system tray.
+
+ -- John Crawley <john@bunsenlabs.org>  Fri, 08 Dec 2023 16:26:36 +0900
+
 bunsen-numix-icon-theme (12.2.2-1) boron; urgency=medium
 
   * Update index.theme for Dark and Light common themes. 
