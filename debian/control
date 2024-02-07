@@ -12,6 +12,7 @@ Vcs-Browser: https://github.com/BunsenLabs/bunsen-numix-icon-theme
 Package: bunsen-numix-icon-theme
 Architecture: all
 Depends: ${misc:Depends}, numix-icon-theme-circle, librsvg2-common
+Recommends: gtk-update-icon-cache
 Description: Some substitute icons for the Numix icon theme.
  The default Numix folder icons have been replaced by
  light blue (aqua) or dark red icons, and some others added.
