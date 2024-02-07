@@ -1,3 +1,11 @@
+bunsen-numix-icon-theme (12.2.4-1) boron; urgency=medium
+
+  * Use red panel icon for wireless network disconnected status.
+     The existing icon is difficult to see on Boron-Aqua theme.
+  * Add Recommend on gtk-update-icon-cache.
+
+ -- John Crawley <john@bunsenlabs.org>  Wed, 07 Feb 2024 14:29:23 +0900
+
 bunsen-numix-icon-theme (12.2.3-1) boron; urgency=medium
 
   * Add software-update-available symbolic-style dark and light icons.
